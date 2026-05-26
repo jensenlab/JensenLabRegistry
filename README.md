@@ -4,7 +4,7 @@
 # To add the registry: 
 ```julia
 using Pkg
-pkg"registry add <repository url>"
+pkg"registry add https://github.com/jensenlab/JensenLabRegistry"
 ```
 
 
