@@ -1,0 +1,10 @@
+[0]
+ColorBrewer = "0.4.2-0.4"
+Colors = "0.13.1-0.13"
+DataFrames = "1.8.1-1"
+Distributions = "0.25.123-0.25"
+Gurobi = "1.9.1-1"
+Gurobi_jll = "12"
+JuMP = "1.29.3-1"
+Plots = "1.41.3-1"
+Random = "1.11.0-1"

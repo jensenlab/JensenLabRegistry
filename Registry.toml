@@ -4,3 +4,4 @@ repo = "https://github.com/jensenlab/JensenLabRegistry"
 description = "The Jensen Lab Julia Registry"
 
 [packages]
+52f550af-10d2-4094-8a84-3f014d56cfcb = { name = "PlateArrays", path = "P/PlateArrays" }
