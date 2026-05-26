@@ -1,0 +1,6 @@
+name = "JensenLab"
+uuid = "4808f7ef-8369-42aa-aeb9-deb076640aa4"
+repo = "https://github.com/jensenlab/JensenLabRegistry"
+description = "The Jensen Lab Julia Registry"
+
+[packages]
